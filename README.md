@@ -2,5 +2,5 @@
 bun
 pickels
 cheese
-meat
+2x meat
 bun
