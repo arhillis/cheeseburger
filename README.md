@@ -1,6 +1,6 @@
 # cheeseburger
 bun
 pickels
-cheese
+2xcheese
 2x meat
 bun
