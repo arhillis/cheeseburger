@@ -1,6 +1,6 @@
 # cheeseburger
 bun
-pickels
+2x pickels
 cheese
 2x meat
-bun
+ketchup
